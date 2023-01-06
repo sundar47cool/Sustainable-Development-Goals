@@ -1,0 +1,58 @@
+.lol{
+  font-family: 'Lexend', sans-serif;
+  text-align: center;
+  letter-spacing: 8px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.Header{
+  background-color: #8aceeb;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.cont{
+  background-color: #ededed;
+}
+.para{
+    font-family: 'Lexend', sans-serif;
+    font-weight: 300;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 25px;
+}
+.head{
+      font-family: 'Lexend', sans-serif;
+      font-weight: 600;
+      padding-left: 15px;
+      padding-right: 15px;
+}
+.eradicate{
+  font-family: 'Lexend', sans-serif;
+  font-weight: 300;
+  padding-left: 15px;
+  padding-right: 15px;
+  line-height: 35px;
+  padding-bottom: 20px;
+}
+.lolee{
+  font-family: 'Lexend', sans-serif;
+  font-weight: 600;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 25px;
+  padding-top: 20px;
+}
+.breef{
+  font-family: 'Lexend', sans-serif;
+  font-weight: 300;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  font-size: 15px;
+}
